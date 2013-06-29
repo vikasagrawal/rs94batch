@@ -274,7 +274,6 @@
     <Content Include="Scripts\twitter-bootstrap\docs\assets\js\jquery.js" />
     <Content Include="Scripts\twitter-bootstrap\docs\base-css.html" />
     <Content Include="Scripts\twitter-bootstrap\docs\build\index.js" />
-    <Content Include="Scripts\twitter-bootstrap\docs\build\node_modules\hogan.js\.gitmodules" />
     <Content Include="Scripts\twitter-bootstrap\docs\build\node_modules\hogan.js\lib\compiler.js" />
     <Content Include="Scripts\twitter-bootstrap\docs\build\node_modules\hogan.js\lib\hogan.js" />
     <Content Include="Scripts\twitter-bootstrap\docs\build\node_modules\hogan.js\lib\template.js" />
